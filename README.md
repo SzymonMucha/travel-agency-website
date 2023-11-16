@@ -1,5 +1,5 @@
 # Travebyl - Chornobyl travel agency
-This is a website of a non-existent, Chornobyl travel agency called Travebyl. It was made by Albert Halusiak as a backend PHP programmer, and me -  responsible for the frontend stuff, like HTML, CSS, and JS with bootstrap. 
+This is a website of a non-existent, Chornobyl travel agency called Travebyl. It was made by Albert Halusiak as a backend PHP and SQL programmer, and me - responsible for the frontend stuff, like HTML, CSS, and JS with bootstrap. 
 
 ![obraz](https://github.com/SzymonMucha/travel-agency-website/assets/86188861/5d92ab25-b307-4c90-85b7-58a4a581a921)
 
