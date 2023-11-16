@@ -11,3 +11,5 @@ From the website’s functionalities, it is also worth mentioning the optional d
 (Phone number and e-mail address in the image below are fake).
 
 ![obraz](https://github.com/SzymonMucha/travel-agency-website/assets/86188861/f9be4ac2-f966-43da-8ce7-fa14cbd8f6f0)
+
+I don't own any rights for images used in gallery.
